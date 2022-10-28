@@ -87,6 +87,12 @@ input, select, textarea {
 		html, body {
 			min-width: 320px;
 		}
+		
+		.pfp{
+			width: 250px;
+			height: 200px;
+		}
+
 
 	}
 
